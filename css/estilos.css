@@ -1,0 +1,41 @@
+p{
+    text-align: justify;
+}
+
+.tamaño{
+    font-size: 15px;
+}
+
+.loader_bg {
+   position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(255, 255, 255),rgb(255, 255, 255),rgb(167, 243, 167),rgb(88, 194, 70));
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fondo{
+      background: rgb(255, 255, 255);
+      background: linear-gradient(to top, rgb(182, 173, 173), rgb(139, 133, 133));
+    }
+  
+.fondo1{
+  background: rgb(144, 238, 90);
+  background: linear-gradient(to top, rgb(26, 145, 30), rgb(8, 68, 2));
+}
+
+.fondo2{
+  background: rgb(255, 255, 255);
+  background: linear-gradient(to top, rgb(154, 175, 162), rgb(0, 0, 0));
+}
+
+body{
+  background: rgb(255, 255, 255);
+  background: linear-gradient(to top, rgb(179, 209, 191), rgb(219, 238, 168));
+}
+
